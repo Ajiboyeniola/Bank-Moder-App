@@ -14,7 +14,7 @@ import {
 } from "./components";
 
 const App = () => (
-  <div className="bg-primary w-fullcd">
+  <div className="bg-primary w-full">
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <Navbar />
